@@ -1,2 +1,0 @@
-allow init kernel:system syslog_read;
-allow init fuse:dir mounton;
